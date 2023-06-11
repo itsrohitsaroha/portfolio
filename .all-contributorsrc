@@ -1,0 +1,30 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "itsrohitsaroha",
+      "name": "Rohit Saroha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20444943?s=400&u=51a2edb0ecc3eee0fa9bb9573ceef182e3461b0e&v=4",
+      "profile": "http://itsrohitsaroha.github.io",
+      "contributions": [
+        "code",
+        "doc",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "portfolio",
+  "projectOwner": "itsrohitsaroha",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "commitConvention": "angular",
+  "commitType": "docs"
+}
