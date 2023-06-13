@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "Engineer by Heart, who knows how to Build things and fix the existing ones",
   resumeLink:
-    "https://drive.google.com/file/d/1aCL6dg6tINZ3Y4sLgbsGJaKV9SgvO7El/view?usp=share_link",
+    "https://drive.google.com/file/d/1cS2zejapPz6ksN1Ss-BctlTftoHwGd8g/view?usp=drive_link",
   portfolio_repository: "https://github.com/itsrohitsaroha/portfolio",
   githubProfile: "https://github.com/itsrohitsaroha",
 };
@@ -269,7 +269,7 @@ const degrees = {
       duration: "2015 - 2019",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
+        "⚡ Apart from this, I have done projects on Deep Learning, Data Science and Full Stack Development.",
         "⚡ I was selected for Prime Minister Scholarship worth 96k and AGIF Scholarship worth 80k.",
       ],
       website_link: "http://aitpune.com",
@@ -314,6 +314,15 @@ const certifications = {
         "https://www.coursera.org/account/accomplishments/verify/7MUC4X7YJ9X5?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course",
       alt_name: "Google",
       color_code: "#8697d9",
+    },
+    {
+      title: "HSBC's Star Performer Award",
+      subtitle: "- HSBC",
+      logo_path: "hsbc.png",
+      certificate_link:
+        "Todo",
+      alt_name: "Hsbc",
+      color_code: "#697f71",
     },
     {
       title: "Developing a Google SRE Culture",
