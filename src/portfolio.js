@@ -333,6 +333,15 @@ const certifications = {
       alt_name: "Google",
       color_code: "#666a7a",
     },
+    {
+      title: "HSBC's Pat on back Award",
+      subtitle: "- HSBC",
+      logo_path: "hsbc.png",
+      certificate_link:
+        "Todo",
+      alt_name: "Hsbc",
+      color_code: "#ffee9c",
+    },
   ],
 };
 
