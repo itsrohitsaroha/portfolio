@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Rohit Saroha Portfolio",
     type: "website",
-    url: "http://saroharohit.github.io/",
+    url: "http://itsrohitsaroha.github.io/",
   },
 };
 
@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "Engineer by Heart, who knows how to Build things and fix the existing ones",
   resumeLink:
-    "https://drive.google.com/file/d/1cS2zejapPz6ksN1Ss-BctlTftoHwGd8g/view?usp=drive_link",
+    "https://drive.google.com/file/d/1_mtf7j5VRl1L0a-Fo2LJClkjfmzcTtuP/view?usp=drive_link",
   portfolio_repository: "https://github.com/itsrohitsaroha/portfolio",
   githubProfile: "https://github.com/itsrohitsaroha",
 };
